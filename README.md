@@ -21,3 +21,4 @@ setInterval: lanza algo de forma recurrente cada x tiempo (el que tu indiques))
 En las promesas resolve cuando algo ha salido bien, reject se devuelve cuando la cosa ha ido mal.
 
 new Promise..
+
